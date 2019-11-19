@@ -1,0 +1,40 @@
+.button {
+  display: inline-block;
+  box-sizing: border-box;
+  border-radius: 25px;
+  color: #635c73;
+  text-decoration: none;
+
+}
+
+.navigation__button {
+  padding: 10px 25px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 15px;
+
+  &:hover {
+    background-color: #8d81ac;
+  }
+}
+
+.downloading__button {
+  display: block;
+  margin: 0 auto;
+  padding: 20px 40px;
+  width: 30%;
+  position: relative;
+  top: -25px;
+  color: #ffffff;
+  background-color: #8d81ac;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+
+}
+
+
+.github-buttons {
+  padding-bottom: 70px;
+}
