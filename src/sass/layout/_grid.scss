@@ -17,3 +17,22 @@
 .features {
   background-color: #f4f4f4;
 }
+
+.features h2 {
+  display: inline-block;
+  padding-bottom: 600px;
+  text-align: center;
+  width: 55%;
+  background: url("../img/editor_background.png") no-repeat;
+  background-position: right 30px top 100px;
+  overflow: hidden;
+}
+
+.features__list {
+  display: inline-block;
+  width: 40%;
+}
+
+.social {
+  text-align: center;
+}
